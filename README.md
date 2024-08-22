@@ -1,5 +1,4 @@
 # Data-Engineering-Project
-==========================
 
 ## Overview
 This project is a data engineering initiative focused on designing and implementing a robust data pipeline to process, transform, and visualize data from a source system to a target system. The project leverages the AdventureWorksLT2017 database, a well-known sample database provided by Microsoft, to demonstrate various data engineering techniques and best practices.
