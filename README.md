@@ -47,7 +47,7 @@ Azure Data Factory (ADF) orchestrates data movement and workflow automation, inc
 3. **Data Transformation**:
    - Use ADF to trigger Databricks notebooks for data transformation. These notebooks handle the extraction of raw data (bronze), intermediate data cleaning (silver), and final data ready for reporting (gold).
        
-![ADF pipeline](images/ADF.jpg)
+![ADF pipeline](./ADF.jpg)
 
 ### 3. Azure Databricks Setup
 
@@ -68,7 +68,7 @@ Databricks provides the environment for data processing and transformation using
    - Silver
    - Gold
        
-![Spark pipeline](images/Spark.jpg)
+![Spark pipeline](./Spark.jpg)
 
 ### 4 . Azure Synapse Analytics Setup
 
@@ -82,7 +82,7 @@ Synapse Analytics acts as the data warehouse, where transformed data is stored f
    - **Run SQL Queries**:
      - Run queries against the processed data for analysis, or set up views to simplify reporting tasks in Power BI.
 
-![syn](images/syn.jpg)
+![syn](./syn.jpg)
 
 ### 5 . Power PI
 
@@ -111,7 +111,7 @@ The attached screen represents the cost analysis for the resource group rg-data-
      - US East: $0.21
      - US West: $0.19
 
-![cost](images/cost.jpg)
+![cost](./cost.jpg)
 
 
 ## Conclusion
