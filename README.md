@@ -84,7 +84,7 @@ Synapse Analytics acts as the data warehouse, where transformed data is stored f
 
 ![syn](./syn.jpg)
 
-### 5 . Power PI
+### 5 . Power BI
 
 Power BI allows you to create interactive reports and dashboards based on the processed data from Synapse. It provides business users with an easy way to explore data and derive insights.
 
